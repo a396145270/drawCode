@@ -1,0 +1,102 @@
+PODS:
+  - AsyncSwift (2.0.4)
+  - ChameleonFramework (2.1.0):
+    - ChameleonFramework/Default (= 2.1.0)
+  - ChameleonFramework/Default (2.1.0)
+  - DKImagePickerController (3.8.1):
+    - DKImagePickerController/Camera (= 3.8.1)
+    - DKImagePickerController/ImageManager (= 3.8.1)
+  - DKImagePickerController/Camera (3.8.1)
+  - DKImagePickerController/ImageManager (3.8.1)
+  - FLAnimatedImage (1.0.12)
+  - IGDigest (1.1.3)
+  - IQKeyboardManagerSwift (6.0.2)
+  - JDStatusBarNotification (1.5.6)
+  - JTSImageViewController (1.5.1)
+  - JZNavigationExtension (2.1)
+  - MGSwipeTableCell (1.6.7)
+  - MJRefresh (3.1.15.3)
+  - NVActivityIndicatorView (4.2.0):
+    - NVActivityIndicatorView/Presenter (= 4.2.0)
+  - NVActivityIndicatorView/Presenter (4.2.0)
+  - PySwiftyRegex (2.0.1)
+  - RESideMenu (4.0.7)
+  - SDWebImage (4.3.3):
+    - SDWebImage/Core (= 4.3.3)
+  - SDWebImage/Core (4.3.3)
+  - SDWebImage/GIF (4.3.3):
+    - FLAnimatedImage (~> 1.0)
+    - SDWebImage/Core
+  - SKPhotoBrowser (5.0.9)
+  - SnapKit (4.0.0)
+  - SwiftyJSON (4.1.0)
+  - SwiftyTimer (2.0.0)
+
+DEPENDENCIES:
+  - AsyncSwift
+  - ChameleonFramework
+  - DKImagePickerController
+  - FLAnimatedImage
+  - IGDigest
+  - IQKeyboardManagerSwift
+  - JDStatusBarNotification
+  - JTSImageViewController
+  - JZNavigationExtension
+  - MGSwipeTableCell
+  - MJRefresh
+  - NVActivityIndicatorView
+  - PySwiftyRegex
+  - RESideMenu
+  - SDWebImage
+  - SDWebImage/GIF
+  - SKPhotoBrowser
+  - SnapKit
+  - SwiftyJSON
+  - SwiftyTimer
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AsyncSwift
+    - ChameleonFramework
+    - DKImagePickerController
+    - FLAnimatedImage
+    - IGDigest
+    - IQKeyboardManagerSwift
+    - JDStatusBarNotification
+    - JTSImageViewController
+    - JZNavigationExtension
+    - MGSwipeTableCell
+    - MJRefresh
+    - NVActivityIndicatorView
+    - PySwiftyRegex
+    - RESideMenu
+    - SDWebImage
+    - SKPhotoBrowser
+    - SnapKit
+    - SwiftyJSON
+    - SwiftyTimer
+
+SPEC CHECKSUMS:
+  AsyncSwift: 65775a7b32e740609b24969ece3de58723b9dc3e
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  DKImagePickerController: 51ad6ee2ba05414bb741db54a72cd7f4fb178e34
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  IGDigest: b8e27edd36468bc87951645b841531229256019a
+  IQKeyboardManagerSwift: 59d4b0e140bc546c3c76ae5bb35b3dafd10b8172
+  JDStatusBarNotification: d5829a8f2f291b23b8a54b87fac8bf2549945a2f
+  JTSImageViewController: 1f8ce1cc93dab0d0af8e53badeea7528560cfec9
+  JZNavigationExtension: 45284fc63ba48a9e55b020656d39c86b01ff6a63
+  MGSwipeTableCell: fb20e983988bde2b8d0df29c2d9e1d8ffd10b74a
+  MJRefresh: b48380ae2b927b46c4ef000de9adb8dc748e1df7
+  NVActivityIndicatorView: 75c9634073e03b31d7e2748cd2417feab1206195
+  PySwiftyRegex: 18ee6bede93377ce133ca9c1e8cc0446ac988be4
+  RESideMenu: f24c508404b49c667344c54aba7e590883533958
+  SDWebImage: de4d90b5bff3571eae7bd16202b1f43135409fa5
+  SKPhotoBrowser: 668c29bdd9d4d276026fc131c55e96d902c2463c
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+  SwiftyTimer: 2efd74b060d69ad4f1496baf5bbedbe132125fcf
+
+PODFILE CHECKSUM: 678c06092d7da0a01f5dc6ebcc0f6540667d1828
+
+COCOAPODS: 1.5.2
